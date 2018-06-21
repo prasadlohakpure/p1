@@ -1,6 +1,6 @@
 // A _goroutine_ is a lightweight thread of execution.
 
-package main
+package mainf
 
 import "fmt"
 
